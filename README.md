@@ -67,6 +67,7 @@ int main() {
 
     return 0;
 }
+```
 
 ## Licencia
 Este proyecto está basado en el código de [Raspberry Pi (Trading) Ltd.](https://www.raspberrypi.org) (Copyright (c) 2020). Este código se distribuye bajo la [Licencia BSD de 3 cláusulas](https://opensource.org/licenses/BSD-3-Clause). 
