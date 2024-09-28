@@ -70,6 +70,7 @@ int main() {
 ```
 
 ## Licencia
-Este proyecto está basado en el código de [Raspberry Pi (Trading) Ltd.](https://www.raspberrypi.org) (Copyright (c) 2020). Este código se distribuye bajo la [Licencia BSD de 3 cláusulas](https://opensource.org/licenses/BSD-3-Clause). 
+Este proyecto está basado en el código de [Raspberry Pi (Trading) Ltd.](https://www.raspberrypi.org) (Copyright (c) 2020). Este código se distribuye bajo la [Licencia BSD de 3 cláusulas](https://opensource.org/licenses/BSD-3-Clause).
+Codigo original [pico-examples](https://github.com/raspberrypi/pico-examples/tree/develop/i2c/lcd_1602_i2c)
 ### Modificaciones
 Se han realizado modificaciones en 2024 por [RenoZix](tu_github_url), y la librería sigue bajo la misma licencia BSD. 
