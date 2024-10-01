@@ -54,7 +54,7 @@ Controla la visibilidad y el parpadeo del cursor en la pantalla. Toma dos parám
 ## Ejemplo de Uso
 
 ```c
-#include "lcd_i2c.h"
+#include "pico_lcd_i2c.c"
 
 int main() {
     // Inicializa la I2C y el LCD
