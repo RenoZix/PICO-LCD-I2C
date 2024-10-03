@@ -1,4 +1,4 @@
-# PICO-LCD-I2C
+# pico_lcd_i2c
 
 Esta es una librería para controlar pantallas LCD mediante la interfaz I2C utilizando una Raspberry Pi Pico. Proporciona funciones básicas para la interacción con pantallas LCD de 16x2, 20x4 y otras variantes compatibles con el controlador HD44780 a través de un expansor I2C, como el PCF8574.
 
@@ -54,7 +54,7 @@ Controla la visibilidad y el parpadeo del cursor en la pantalla. Toma dos parám
 ## Ejemplo de Uso
 
 ```c
-#include "pico_lcd_i2c.c"
+#include "lcd_i2c.h"
 
 int main() {
     // Inicializa la I2C y el LCD
